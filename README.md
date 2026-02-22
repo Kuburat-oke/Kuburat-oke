@@ -44,7 +44,7 @@ I'm Kuburat Oyindamola Oke
 
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/YOUR-https://www.linkedin.com/in/kuburat-oke-1060522a8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FRX%2FflaWRxqbcHe2TDRH5A%3D%3D" target="-blank">
+  <a href="https://www.linkedin.com/in/YOUR-Kuburat-Oke" target="-blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
