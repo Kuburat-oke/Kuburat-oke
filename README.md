@@ -44,18 +44,16 @@ I'm Kuburat Oyindamola Oke
 
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/YOUR-Kuburat-Oke" target="-blank">
+  <a href="https://www.linkedin.com/in/kuburat-oke-1060522a8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <!-- Gmail -->
-  <a href="mailto:okekuburat9@gmail.com">
+  <a href="mailto:YOUREMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
- LinkedIn:https://www.linkedin.com/in/kuburat-oke-1060522a8/
- Email: okekuburat9@gmail.com  
 
 ---
 
