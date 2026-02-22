@@ -24,8 +24,7 @@ I'm Kuburat Oyindamola Oke
 
 ---
 
-## 📂 Featured (Beginner-Friendly) Projects  
-*(I can help you build these!)*  
+## 📂 Featured (Beginner-Friendly) Projects   
 - 📊 **Excel Data Dashboard** – beginner data analysis  
 - 🗄️ **SQL Query Practice** – solutions to HackerRank SQL challenges  
 - 🧮 **Retail Data Analysis** using Power BI  
@@ -42,12 +41,11 @@ I'm Kuburat Oyindamola Oke
 ---
 
 ## 📫 Connect With Me  
-- **LinkedIn:** *(I can help you create or improve it)*  
-- **Email:** YourContactEmail@example.com  
+ LinkedIn:https://www.linkedin.com/in/kuburat-oke-1060522a8/
+ Email: okekuburat9@gmail.com  
 
 ---
 
-### 💬 “Every expert was once a beginner — and every line of code is progress.”  
 
 <!--
 **Kuburat-oke/Kuburat-oke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
